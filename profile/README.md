@@ -6,14 +6,15 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle%20Apex-1D6FB2?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/PL/SQL-FFCA28?style=for-the-badge&logo=databricks&logoColor=black"/>
   <img src="https://img.shields.io/badge/Virtualiza%C3%A7%C3%A3o-0078D7?style=for-the-badge&logo=vmware&logoColor=white"/>
   <img src="https://img.shields.io/badge/IoT-00BFFF?style=for-the-badge&logo=simpleicons&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mobile%20App-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
- 
-
+  <img src="https://img.shields.io/badge/API-RESTful-brightgreen?style=for-the-badge&logo=rest&logoColor=white" alt="API RESTful"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Quality%20Assurance-0067B8?style=for-the-badge&logo=qualcomm&logoColor=white"/>
 </p>
 
