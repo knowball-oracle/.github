@@ -1,6 +1,6 @@
 ![Imagem](https://drive.google.com/uc?export=view&id=1AD-_Bc5hurJ1jNrduagbOojCb_i9XYfw)
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Quality%20Assurance-0067B8?style=for-the-badge&logo=qualcomm&logoColor=white"/>
 </p>
 
----
+
 
 # Knowball
 
@@ -27,6 +27,8 @@ Bem-vindos à nossa organização! Somos uma equipe dedicada a combater fraudes 
 ## Problema
 
 Ligas amadoras de futebol de base enfrentam manipulações de resultados, incluindo suborno de árbitros, conluio entre equipes e pressão indevida sobre atletas, prejudicando campeonatos e clubes.
+
+![Notícia](https://drive.google.com/uc?export=view&id=1kAZcslmVQphd-LyALCwPI07cEPFtL7tp)
 
 ## Público-alvo
 
