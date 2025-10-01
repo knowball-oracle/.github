@@ -18,11 +18,11 @@
   <img src="https://img.shields.io/badge/Quality%20Assurance-0067B8?style=for-the-badge&logo=qualcomm&logoColor=white"/>
 </p>
 
-
-
 # Knowball
 
-Bem-vindos à nossa organização! Somos uma equipe dedicada a combater fraudes e proteger a integridade do futebol masculino nas categorias de base.
+Somos uma equipe dedicada a **combater fraudes e proteger a integridade do futebol brasileiro masculino nas categorias de base**.
+
+Essas manipulações podem incluir suborno de árbitros, conluio entre equipes, pressão indevida à atletas e acerto de placares. Tal situação ameaça a integridade dos campeonatos, reduz a motivação dos jovens atletas e compromete a credibilidade dos clubes.
 
 ## Problema
 
@@ -32,11 +32,21 @@ Ligas amadoras de futebol de base enfrentam manipulações de resultados, inclui
 
 ## Público-alvo
 
-- Árbitros, atletas, técnicos e dirigentes de ligas masculinas das categorias de base (sub-13, sub-15, sub-17 e sub-20).
+- Árbitros, atletas, técnicos e dirigentes de ligas masculinas das categorias de base do futebol brasileiro(sub-13, sub-15, sub-17 e sub-20).
 
 ## Objetivo
 
-Garantir competições transparentes e seguras, facilitando denúncias anônimas de manipulação para fortalecer a credibilidade do esporte e promover o desenvolvimento dos jovens atletas.
+Proteger as competições masculinas de base contra fraudes e irregularidades, facilitando denúncias seguras e anônimas para fortalecer a transparência e criar um ambiente justo que incentive o desenvolvimento esportivo dos jovens.
+
+## Solução
+
+A solução se baseia em 3 pilares principais:
+
+1. **API REST principal:** permite que qualquer participante das categorias de base masculinas registre uma denúncia de manipulação, informando o campeonato, a partida e um relato detalhado.
+
+2. **Protocolo anônimo:** o sistema gera um número único para acompanhamento da denúncia, preservando a identidade do denunciante.
+
+3. **Análise de Sentimento (IA):** avalia o tom das denúncias e comentários para ajudar a distinguir entre relatos de honestidade ou possíveis tentativas de manipulação do sistema.
 
 ## Equipe
 
